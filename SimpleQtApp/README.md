@@ -19,4 +19,4 @@
 
 # FINAL UI
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9f8c8986-b36b-49ac-8409-f3da6256dd9e)
